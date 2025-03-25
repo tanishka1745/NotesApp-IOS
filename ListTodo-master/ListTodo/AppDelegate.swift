@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ListTodo
-//
-//  Created by Muhammad Moaz Khan on 03/03/2018.
-//  Copyright © 2018 MK. All rights reserved.
-//
 
 import UIKit
 import CoreData
