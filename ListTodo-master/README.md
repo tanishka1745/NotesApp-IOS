@@ -19,15 +19,8 @@
 1. Download and open the project file.  
 
 
-## Contribute
 
-We would love you for the contribution to **ListTodo**, check the ``LICENSE`` file for more info.
 
-## Meta
-
-Moaz Khan – moazkh60@gmail.com
-
-Distributed under the Opensource license. See ``LICENSE`` for more information.
 
 
 [swift-image]:https://img.shields.io/badge/swift-4.1-orange.svg
