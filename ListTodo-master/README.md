@@ -1,12 +1,5 @@
 # ListTodo
-> An opensource todo list app.
 
-[![4.1][swift-image]][swift-url]
-[![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-ListTodo is a simple app made for making todo list. From the top right plus icon the user can add a todo and description. The app uses core data and is best for learning purposes. The app follow MVC architecture, which is organized in an elegant way.
 
 ![](./Screenshots/loading.png) ![](./Screenshots/home.png)
 
@@ -24,7 +17,7 @@ ListTodo is a simple app made for making todo list. From the top right plus icon
 
 #### Manually
 1. Download and open the project file.  
-2. Congratulations!  
+
 
 ## Contribute
 
@@ -36,7 +29,6 @@ Moaz Khan – moazkh60@gmail.com
 
 Distributed under the Opensource license. See ``LICENSE`` for more information.
 
-[https://github.com/moazkh60](https://github.com/moazkh60)
 
 [swift-image]:https://img.shields.io/badge/swift-4.1-orange.svg
 [swift-url]: https://swift.org/
